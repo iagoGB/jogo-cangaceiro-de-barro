@@ -1,7 +1,7 @@
-Jogo - O Cangaceiro de Barro
-Ano: 2017
-Linguagem de programaÁ„o: GML
+## Jogo - O Cangaceiro de Barro 
+Ano: 2017 <br/>
+Linguagem de programa√ß√£o: GML - Game Maker Language <br/>
 
-Vers„o apresentada no checkpoint IV do projeto integrado do primeiro semestre
-do curso Sistemas e mÌdias digitais da Universidade Federal do Cear·.
+<p>Vers√£o apresentada no checkpoint IV do projeto integrado do primeiro semestre
+do curso Sistemas e M√≠dias Digitais da Universidade Federal do Cear√°. </p>
 
